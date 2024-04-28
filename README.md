@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yusuf Toyin Kamol
-- 👀 I’m interested in web and webApp dev
+- 👀 I’m interested in webApp dev
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Fullstack project
 - 📫 you can reach me through my Email: ytoyin67@yahoo.com ...
